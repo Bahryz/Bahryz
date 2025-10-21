@@ -1,7 +1,7 @@
 <!--
 Olá, Pedro! Este é o seu README de perfil personalizado.
 Para usá-lo, crie um novo repositório com o mesmo nome do seu usuário do GitHub.
-Por exemplo, se seu usuário é "pedro-bahry", o repositório deve se chamar "pedro-bahry".
+Por exemplo, se seu usuário é "Bahryz", o repositório deve se chamar "Bahryz".
 Adicione este arquivo como README.md nesse repositório e ele aparecerá na sua página de perfil!
 -->
 
@@ -42,11 +42,6 @@ Substitua os links e informações pelos seus.
 
 
 📫 Como me encontrar: <a href="https://www.linkedin.com/in/pedro-bahry-864b40305/" target="_blank"><strong>LinkedIn</strong></a>
-
-
-
-
-⚡ Curiosidade: Gosto de programar projetos pessoais, jogar e treinar boxe.
 </p>
 
 🛠️ Minhas Habilidades (Tech Stack)
@@ -71,17 +66,17 @@ Para os ícones, procure em https://simpleicons.org/
 
 <!--
 Estas são estatísticas dinâmicas!
-Basta substituir "SEU-USUARIO-AQUI" pelo seu nome de usuário do GitHub.
+O seu nome de usuário "Bahryz" já está configurado.
 Você pode customizar os temas e opções. Veja a documentação:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU-USUARIO-AQUI%26show_icons%3Dtrue%26theme%3Dtokyonight%26locale%3Dpt-br%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Estatísticas do GitHub"/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBahryz%26show_icons%3Dtrue%26theme%3Dtokyonight%26locale%3Dpt-br%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Estatísticas do GitHub de Bahryz"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU-USUARIO-AQUI%26layout%3Dcompact%26theme%3Dtokyonight%26locale%3Dpt-br%26hide_border%3Dtrue%26langs_count%3D6" alt="Linguagens Mais Usadas"/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBahryz%26layout%3Dcompact%26theme%3Dtokyonight%26locale%3Dpt-br%26hide_border%3Dtrue%26langs_count%3D6" alt="Linguagens Mais Usadas por Bahryz"/>
 </a>
 </p>
 
