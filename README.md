@@ -1,7 +1,6 @@
 <!--
 Olá, Pedro! Este é o seu README de perfil personalizado.
-Para usá-lo, crie um novo repositório com o mesmo nome do seu usuário do GitHub.
-Por exemplo, se seu usuário é "Bahryz", o repositório deve se chamar "Bahryz".
+Para usá-lo, crie um novo repositório com o mesmo nome do seu usuário do GitHub (Bahryz).
 Adicione este arquivo como README.md nesse repositório e ele aparecerá na sua página de perfil!
 -->
 
@@ -14,10 +13,6 @@ Sou um desenvolvedor de software com experiência em SysOps e infraestrutura. Te
 </p>
 
 👨‍💻 Sobre Mim
-
-<!--
-Use esta seção para dar um resumo rápido sobre você.
--->
 
 <p align="left">
 🔭 Atualmente trabalhando na área de <strong>SysOps</strong> e aprimorando minhas habilidades em múltiplas tecnologias.
@@ -45,12 +40,6 @@ Use esta seção para dar um resumo rápido sobre você.
 
 🛠️ Minhas Habilidades (Tech Stack)
 
-<!--
-Badges são uma forma visual e excelente de mostrar suas tecnologias.
-Você pode gerar os seus em https://shields.io/
-Para os ícones, procure em https://simpleicons.org/
--->
-
 <p align="center">
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-512BD4%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#"/></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
@@ -63,18 +52,12 @@ Para os ícones, procure em https://simpleicons.org/
 
 📊 Minhas Estatísticas no GitHub
 
-<!--
-Estas são estatísticas dinâmicas! O seu nome de usuário "Bahryz" já está configurado.
-Você pode customizar os temas e opções. Veja a documentação:
-https://github.com/anuraghazra/github-readme-stats
--->
-
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBahryz%26show_icons%3Dtrue%26theme%3Dtokyonight%26locale%3Dpt-br%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Estatísticas do GitHub de Bahryz"/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBahryz%26show_icons%3Dtrue%26theme%3Ddracula%26locale%3Dpt-br%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26title_color%3Dff79c6%26icon_color%3D8be9fd%26text_color%3Df8f8f2" alt="Estatísticas do GitHub de Bahryz"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBahryz%26layout%3Dcompact%26theme%3Dtokyonight%26locale%3Dpt-br%26hide_border%3Dtrue%26langs_count%3D6" alt="Linguagens Mais Usadas por Bahryz"/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBahryz%26layout%3Ddonut%26theme%3Ddracula%26locale%3Dpt-br%26hide_border%3Dtrue" alt="Linguagens Mais Usadas por Bahryz"/>
 </a>
 </p>
 
