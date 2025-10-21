@@ -17,7 +17,6 @@ Sou um desenvolvedor de software com experiência em SysOps e infraestrutura. Te
 
 <!--
 Use esta seção para dar um resumo rápido sobre você.
-Substitua os links e informações pelos seus.
 -->
 
 <p align="left">
@@ -65,8 +64,7 @@ Para os ícones, procure em https://simpleicons.org/
 📊 Minhas Estatísticas no GitHub
 
 <!--
-Estas são estatísticas dinâmicas!
-O seu nome de usuário "Bahryz" já está configurado.
+Estas são estatísticas dinâmicas! O seu nome de usuário "Bahryz" já está configurado.
 Você pode customizar os temas e opções. Veja a documentação:
 https://github.com/anuraghazra/github-readme-stats
 -->
