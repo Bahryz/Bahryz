@@ -1,5 +1,3 @@
-<!-- Olá, Pedro! Este é o seu README de perfil personalizado. Basta criar um novo repositório chamado Bahryz e adicionar este arquivo como README.md para que ele apareça na sua página de perfil! -->
-
 # Olá! Eu sou o Pedro Bahry 👋
 
 <p align="left">
@@ -26,6 +24,23 @@ Sou um desenvolvedor de software com experiência em SysOps e infraestrutura. Te
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+## 🚀 Projetos em Destaque
+
+### 🔋 Sistema de Monitoramento para Baterias de Religadores
+> *Arquitetura de Software | Backend C# | IoT*
+
+Projeto desenvolvido para solucionar problemas de manutenção em religadores de energia remotos. O sistema realiza o monitoramento preditivo da saúde das baterias (tensão, temperatura e resistência interna), prevenindo falhas críticas na rede elétrica.
+
+**Minha atuação:**
+- **Arquitetura de Software:** Planejamento da solução ponta a ponta (Hardware IoT -> API -> Dashboard).
+- **Backend:** Desenvolvimento da API robusta em **C# (.NET)** para recepção de telemetria e gerenciamento de dados.
+
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=9_9Nqckdfm4" target="_blank">
+    <img src="http://img.youtube.com/vi/9_9Nqckdfm4/0.jpg" alt="Vídeo demonstrativo do projeto" width="400" border="10" />
+  </a>
+</p>
+
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
@@ -47,5 +62,3 @@ Sou um desenvolvedor de software com experiência em SysOps e infraestrutura. Te
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-<!-- Sinta-se à vontade para adicionar mais seções, projetos e personalizar o README! -->
