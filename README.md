@@ -32,7 +32,7 @@ Sou um desenvolvedor de software com experiência em SysOps e infraestrutura. Te
 Projeto desenvolvido para solucionar problemas de manutenção em religadores de energia remotos. O sistema realiza o monitoramento preditivo da saúde das baterias (tensão, temperatura e resistência interna), prevenindo falhas críticas na rede elétrica.
 
 **Minha atuação:**
-- **Arquitetura de Software:** Planejamento da solução ponta a ponta (Hardware IoT -> API -> Dashboard).
+- **Arquitetura de Software:** Planejamento da solução ponta a ponta (API -> Dashboard).
 - **Backend:** Desenvolvimento da API robusta em **C# (.NET)** para recepção de telemetria e gerenciamento de dados.
 
 <p align="left">
