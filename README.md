@@ -45,10 +45,10 @@ Projeto desenvolvido para solucionar problemas de manutenção em religadores de
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bahryz&show_icons=true&theme=dracula&locale=pt-br&hide_border=true&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" alt="Estatísticas do GitHub de Bahryz"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobahry&show_icons=true&theme=dracula&locale=pt-br&hide_border=true&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" alt="Estatísticas do GitHub de Pedro Bahry"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahryz&layout=donut&theme=dracula&locale=pt-br&hide_border=true" alt="Linguagens Mais Usadas por Bahryz"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahryz&layout=donut&theme=dracula&locale=pt-br&hide_border=true" alt="Linguagens Mais Usadas por Pedro Bahry"/>
   </a>
 </p>
 
