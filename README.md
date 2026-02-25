@@ -1,42 +1,18 @@
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
+# Olá! Eu sou o Pedro Bahry 👋
 
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
-<br/>
-
----
+<p align="left">
+  Sou estudante de Engenharia de Software e atuo com desenvolvimento e SysOps. Tenho paixão por construir soluções robustas utilizando boas práticas de arquitetura, unindo o meu conhecimento em desenvolvimento mobile (Flutter e Kotlin) e backend (C# e .NET) com infraestrutura.
+</p>
 
 ## 👨‍💻 Sobre Mim
 
-<p align="left">
-  Sou estudante de Engenharia de Software e atuo com desenvolvimento e SysOps. Tenho paixão por construir soluções robustas utilizando boas práticas de arquitetura (como Clean Architecture e MVC), unindo meu conhecimento em desenvolvimento mobile (Flutter e Kotlin) e backend (C# e .NET) com infraestrutura.
-</p>
-
-- 🔭 Atualmente atuando na área de **SysOps** (estagiário no Banco Bari) e desenvolvendo soluções mobile.
-- 🌱 Aprendendo cada vez mais sobre arquiteturas escaláveis e cloud.
-- 👯 Buscando colaborar em projetos que unam desenvolvimento de software e infraestrutura (DevOps).
+- 🔭 Atualmente a trabalhar na área de **SysOps** (estagiário no Banco Bari) e a desenvolver soluções mobile.
+- 🌱 A aprender cada vez mais sobre arquiteturas escaláveis e cloud.
+- 👯 A procurar colaborar em projetos que unam desenvolvimento de software e infraestrutura (DevOps).
 - 💬 Pergunta-me sobre: **SysOps, Infra, Flutter, Kotlin, C# (.NET) e Cibersegurança**.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/pedro-bahry-864b40305/)
 
-## 🛠️ Minhas Habilidades (Tech Stack)
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -50,13 +26,20 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bahryz&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" alt="Estatísticas do GitHub de Bahryz"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahryz&layout=compact&theme=dracula&locale=pt-br&hide_border=false" alt="Linguagens Mais Usadas por Bahryz"/>
+</p>
+
 ## 🚀 Projetos em Destaque
 
 ### 🔋 Sistema de Monitorização para Baterias de Religadores
 > *Arquitetura de Software | Backend C# | IoT*
 
 Projeto desenvolvido para solucionar problemas de manutenção em religadores de energia remotos. O sistema realiza a monitorização preditiva da saúde das baterias (tensão, temperatura e resistência interna), prevenindo falhas críticas na rede elétrica.
-- **Minha atuação:** Planeamento da solução ponta a ponta e desenvolvimento da API robusta em **C# (.NET)** para receção de telemetria e gestão de dados.
+- **A minha atuação:** Planeamento da solução ponta a ponta e desenvolvimento da API robusta em **C# (.NET)** para receção de telemetria e gestão de dados.
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=9_9Nqckdfm4" target="_blank">
@@ -76,7 +59,7 @@ Sistema focado na geração automatizada de scripts e instruções de deploy par
 
 ---
 
-## 📞 Entre em Contato
+## 📞 Entre em Contacto
 
 <p align="center">
   <a href="mailto:phbahry@gmail.com" target="_blank">
