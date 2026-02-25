@@ -26,13 +26,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bahryz&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" alt="Estatísticas do GitHub de Bahryz"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahryz&layout=compact&theme=dracula&locale=pt-br&hide_border=false" alt="Linguagens Mais Usadas por Bahryz"/>
-</p>
-
 ## 🚀 Projetos em Destaque
 
 ### 🔋 Sistema de Monitorização para Baterias de Religadores
