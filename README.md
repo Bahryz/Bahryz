@@ -24,12 +24,6 @@ Sou estudante de Engenharia de Software e atuo com desenvolvimento e SysOps. Ten
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahryz&show_icons=true&theme=dracula&locale=pt-br&hide_border=false" alt="Estatísticas do GitHub de Bahryz"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahryz&layout=compact&theme=dracula&locale=pt-br&hide_border=false" alt="Linguagens Mais Usadas"/>
-</div>
 
 ## 🚀 Projetos em Destaque
 
