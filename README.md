@@ -1,13 +1,11 @@
 # Olá! Eu sou o Pedro Bahry 👋
 
-<p align="left">
-  Sou estudante de Engenharia de Software e atuo com desenvolvimento e SysOps. Tenho paixão por construir soluções robustas utilizando boas práticas de arquitetura, unindo o meu conhecimento em desenvolvimento mobile (Flutter e Kotlin) e backend (C# e .NET) com infraestrutura.
-</p>
+Sou estudante de Engenharia de Software e atuo com desenvolvimento e SysOps. Tenho paixão por construir soluções robustas utilizando boas práticas de arquitetura (como Clean Architecture e MVC), unindo o meu conhecimento em desenvolvimento mobile (Flutter e Kotlin) e backend (C# e .NET) com infraestrutura.
 
 ## 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente a trabalhar na área de **SysOps** (estagiário no Banco Bari) e a desenvolver soluções mobile.
-- 🌱 A aprender cada vez mais sobre arquiteturas escaláveis e cloud.
+- 🔭 Atualmente a estagiar na área de **SysOps** no Banco Bari e a desenvolver soluções mobile.
+- 🌱 A aprofundar conhecimentos sobre arquiteturas escaláveis e cloud.
 - 👯 A procurar colaborar em projetos que unam desenvolvimento de software e infraestrutura (DevOps).
 - 💬 Pergunta-me sobre: **SysOps, Infra, Flutter, Kotlin, C# (.NET) e Cibersegurança**.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/pedro-bahry-864b40305/)
@@ -28,10 +26,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bahryz&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" alt="Estatísticas do GitHub de Bahryz"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahryz&layout=compact&theme=dracula&locale=pt-br&hide_border=false" alt="Linguagens Mais Usadas por Bahryz"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahryz&show_icons=true&theme=dracula&locale=pt-br&hide_border=false" alt="Estatísticas do GitHub de Bahryz"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahryz&layout=compact&theme=dracula&locale=pt-br&hide_border=false" alt="Linguagens Mais Usadas"/>
+</div>
 
 ## 🚀 Projetos em Destaque
 
@@ -39,13 +37,7 @@
 > *Arquitetura de Software | Backend C# | IoT*
 
 Projeto desenvolvido para solucionar problemas de manutenção em religadores de energia remotos. O sistema realiza a monitorização preditiva da saúde das baterias (tensão, temperatura e resistência interna), prevenindo falhas críticas na rede elétrica.
-- **A minha atuação:** Planeamento da solução ponta a ponta e desenvolvimento da API robusta em **C# (.NET)** para receção de telemetria e gestão de dados.
-
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=9_9Nqckdfm4" target="_blank">
-    <img src="http://img.youtube.com/vi/9_9Nqckdfm4/0.jpg" alt="Vídeo demonstrativo do projeto" width="400" border="10" />
-  </a>
-</p>
+- **A minha atuação:** Planeamento da solução ponta a ponta e desenvolvimento da API em **C# (.NET)** para receção de telemetria e gestão de dados.
 
 ### 📱 App para Clínicas Médicas
 > *Mobile | Flutter | Firebase*
@@ -61,11 +53,11 @@ Sistema focado na geração automatizada de scripts e instruções de deploy par
 
 ## 📞 Entre em Contacto
 
-<p align="center">
-  <a href="mailto:phbahry@gmail.com" target="_blank">
+<div align="center">
+  <a href="mailto:phbahry@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/pedro-bahry-864b40305/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-bahry-864b40305/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+</div>
