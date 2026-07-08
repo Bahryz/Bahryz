@@ -20,19 +20,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bahryz/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
-<div align="center">
-  <p>
-    <strong>🔗 Access Featured Systems:</strong>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Bahryz/E-se-um-GEOFISICO-quissese-virar-DEV-">GeoAI Mentor 🪨→📊</a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://github.com/Bahryz/hugging-face-practice">HuggingFace Practice 🏷️</a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://github.com/KatsuMouley/Projeto-CEMIG">Projeto CEMIG ⚡</a>
-  </p>
+  <a href="https://github.com/Bahryz?tab=repositories">
+    <img src="https://raw.githubusercontent.com/Bahryz/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+  </a>
 </div>
 
 <br/>
