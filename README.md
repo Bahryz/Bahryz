@@ -23,6 +23,18 @@
   <img src="https://raw.githubusercontent.com/Bahryz/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
+<div align="center">
+  <p>
+    <strong>🔗 Access Featured Systems:</strong>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Bahryz/E-se-um-GEOFISICO-quissese-virar-DEV-">GeoAI Mentor 🪨→📊</a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://github.com/Bahryz/hugging-face-practice">HuggingFace Practice 🏷️</a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://github.com/KatsuMouley/Projeto-CEMIG">Projeto CEMIG ⚡</a>
+  </p>
+</div>
+
 <br/>
 
 <details>
@@ -30,10 +42,10 @@
 
 <br/>
 
-Building robust solutions with Clean Architecture and MVC.
-Bridging mobile development and infrastructure — Flutter to DevOps.
+Passionate about NLP, LLMs, RAG architectures, and multi-agent systems.
+Bridging geophysics background with cutting-edge AI development.
 
-**Currently at** Banco Bari — SysOps Intern, Brazil
+**Currently at** NTT DATA — AI Engineering Intern, Brazil
 </details>
 
 <br/>
